@@ -1,38 +1,38 @@
 # content farm
-www.life.com.tw
-yourhope.info
-www.mama.tw
-www.teepr.com
-onefunnyjoke.com
-www.buzzhand.com
-my.buzzhand.com
-www.buzzhand.net
-www.ptt01.cc
-tw.gigacircle.com
-tw4.gigacircle.com
-eazon.com
-www.juksy.com
-www.peopleinsider.net
-peopleinsider.blogspot.com
-www.viralane.com
-www.metalballs.com
-www.zoupy.com
-funvdo01.com
-likea.ezvivi.com
-www.youthwant.com.tw
-www.youthwant.com
-share.youthwant.com.tw
-reg.youthwant.com.tw
-youthwant.ufc.com.tw
-youthwant.xnnow.com
-www.pttbook.com
-newstube01.tv
-www.bomb01.com
-share001.net
-www.share001.net
-www.cmoney.net
-www.daliulian.net
-hssszn.com
-www.hothk.com
-www.kuso01.tv
-shareba.com
+0.0.0.0 www.life.com.tw
+0.0.0.0 yourhope.info
+0.0.0.0 www.mama.tw
+0.0.0.0 www.teepr.com
+0.0.0.0 onefunnyjoke.com
+0.0.0.0 www.buzzhand.com
+0.0.0.0 my.buzzhand.com
+0.0.0.0 www.buzzhand.net
+0.0.0.0 www.ptt01.cc
+0.0.0.0 tw.gigacircle.com
+0.0.0.0 tw4.gigacircle.com
+0.0.0.0 eazon.com
+0.0.0.0 www.juksy.com
+0.0.0.0 www.peopleinsider.net
+0.0.0.0 peopleinsider.blogspot.com
+0.0.0.0 www.viralane.com
+0.0.0.0 www.metalballs.com
+0.0.0.0 www.zoupy.com
+0.0.0.0 funvdo01.com
+0.0.0.0 likea.ezvivi.com
+0.0.0.0 www.youthwant.com.tw
+0.0.0.0 www.youthwant.com
+0.0.0.0 share.youthwant.com.tw
+0.0.0.0 reg.youthwant.com.tw
+0.0.0.0 youthwant.ufc.com.tw
+0.0.0.0 youthwant.xnnow.com
+0.0.0.0 www.pttbook.com
+0.0.0.0 newstube01.tv
+0.0.0.0 www.bomb01.com
+0.0.0.0 share001.net
+0.0.0.0 www.share001.net
+0.0.0.0 www.cmoney.net
+0.0.0.0 www.daliulian.net
+0.0.0.0 hssszn.com
+0.0.0.0 www.hothk.com
+0.0.0.0 www.kuso01.tv
+0.0.0.0 shareba.com
