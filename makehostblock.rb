@@ -110,11 +110,11 @@ SOURCE.each do |url|
     Net::HTTP.get(URI(url)).split(/\r?\n/).each{ |ln| hostfile << ln }
 end
 
-# Step 3: [optional] Read from makehostblock.txt from local host, with comment lines removed
-if File.exist?('makehostblock.txt') then
-    hostfile.add_lines(['','# [makehostblock.rb] makehostblock.txt',''])
+# Step 3: [optional] Read from *.txt from local dir, with comment lines removed
+Dir.glob('*.txt') do |filename|
+    hostfile.add_lines(['','# [makehostblock.rb] '+filename,''])
     hostfile.allow_all = true
-    File.readlines('makehostblock.txt').each do |ln|
+    File.readlines(filename).each do |ln|
         hostfile << ln
     end
 end
